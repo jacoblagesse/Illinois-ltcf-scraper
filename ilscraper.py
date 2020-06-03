@@ -23,22 +23,21 @@ driver.quit()
 html_soup = BeautifulSoup(page, 'html.parser')
 #print(html_soup)
 
-main_div = html_soup.find("div", {"id": "LTCContainer"})
-#print(len(main_div.contents))
+main_div = html_soup.find('div', {'id': 'LTCContainer'})
 
 for tag in main_div.children:
 	if tag.has_attr('class'):
 		if tag['class'][0] == 'ui-accordion-header':
 			current_county = tag.text.strip()
 		else:
-			facilities = tag.find_all("div", {"class": "accordion-content"})
+			facilities = tag.find_all('div', {'class': 'accordion-content'})
 			for facility in facilities:
 				name = facility.find('h3').text.strip()
 				
-				data = facility.find_all("p")
+				data = facility.find_all('p')
 				cases = re.findall('\d+', str(data[0]))
-				#print(int(cases[0]))
 				deaths = re.findall('\d+', str(data[1]))
+				
 				df = df.append({'Facility' : name , 'County' : current_county, 'Total Cases' : int(cases[0]), 'Total Deaths' : int(deaths[0])} , ignore_index=True)
 
 df.to_csv('il_data.csv')
