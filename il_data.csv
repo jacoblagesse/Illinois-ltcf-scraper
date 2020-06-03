@@ -1,0 +1,524 @@
+,Facility,County,Total Cases,Total Deaths
+0,Park Place of Belvidere,Boone,5,0
+1,Symphony Northwoods,Boone,84,11
+2,Reflections Memory Care,Champaign,8,0
+3,University Rehab Center,Champaign,5,0
+4,Villas of Holly Brook,Christian,2,0
+5,Carlyle HealthCare Center,Clinton,85,15
+6,Clinton Manor Living Facility,Clinton,29,1
+7,Warrren G Murray Develpmental Center,Clinton,59,0
+8,Charleston Rehab and Healthcare,Coles,76,13
+9,The Grove of Northbrook,Coles,5,0
+10,Abington of Glenview,Cook,6,0
+11,Addolorata Villa,Cook,86,10
+12,Albany Care,Cook,12,0
+13,Alben Lincoln Park Nursing Home,Cook,4,0
+14,Alden Estates Des Plaines,Cook,11,2
+15,Alden Estates of Barrington,Cook,3,0
+16,Alden Estates of Evanston,Cook,4,1
+17,Alden Estates of Northmoor,Cook,75,13
+18,Alden Estates of Orland Park,Cook,24,12
+19,Alden Estates of Skokie,Cook,5,0
+20,Alden Lakeland,Cook,13,1
+21,Alden Lincoln Park Rehab,Cook,68,8
+22,Alden North Shore,Cook,3,1
+23,Alden PoplarCreek,Cook,10,0
+24,Alden Princeton Rehab & Health,Cook,45,10
+25,Alden Town Manor Care,Cook,7,0
+26,Alden Village North,Cook,6,0
+27,Alden Wentworth  Rehab & Healthcare Center,Cook,58,10
+28,All American Nursing Home,Cook,31,2
+29,Ambassador Nursing,Cook,101,10
+30,AMITA Health Holy Family Medical Center,Cook,2,0
+31,Aperion Care Burbank,Cook,5,1
+32,Aperion Care Chicago Heights,Cook,8,1
+33,Aperion Care Dolton,Cook,27,5
+34,Aperion Care Evanston,Cook,19,1
+35,Aperion Care Forest Park,Cook,19,1
+36,Aperion Care International of Chicago,Cook,90,13
+37,Aperion Care Midlothian,Cook,2,0
+38,Aperion Care Oak Lawn,Cook,82,18
+39,Aperion Care Plum Grove,Cook,25,2
+40,Aperion Care West Ridge,Cook,18,8
+41,Arbour Health Care Center,Cook,48,1
+42,Arden Courts of Elk Grove,Cook,20,2
+43,Arden Courts of Palos Heights,Cook,36,9
+44,Arden Courts of South Holland,Cook,23,2
+45,Artis Senior Living of Lakeview,Cook,34,8
+46,Asbury Court Senior Living,Cook,3,0
+47,Astoria Place of Chicago,Cook,103,19
+48,Atria Glenview,Cook,2,0
+49,Atrium Health Care Center,Cook,97,10
+50,Austin Oasis,Cook,33,3
+51,Autumn Green at Wright Campus,Cook,2,0
+52,Avantara Evergreen Park,Cook,70,14
+53,Avantara Park Ridge,Cook,3,1
+54,Avanti Wellness & Rehabilitation,Cook,58,12
+55,Avenues to Independence,Cook,11,0
+56,Balmoral Home,Cook,9,0
+57,Barton Senior Living,Cook,2,0
+58,Beacon Care Center,Cook,78,14
+59,Bella Terra Morton Grove,Cook,46,5
+60,Bella Terra Streamwood,Cook,6,1
+61,Bellhaven Nursing and Rehabilitation,Cook,87,5
+62,Belmont Oak Park,Cook,6,1
+63,Belmont Village Senior Living of Glenview,Cook,20,4
+64,Berkeley Nursing and Rehabilitation Center,Cook,4,2
+65,Bethesda Rehab and Senior Care,Cook,21,1
+66,Bickford of Tinley Park,Cook,2,0
+67,Birchwood Plaza Nursing-Rehab,Cook,22,3
+68,Bria Forest Edge,Cook,132,2
+69,BRIA of Chicago Heights,Cook,50,1
+70,Bria of Palos Hills,Cook,79,11
+71,Bria Place of Indian Head Park,Cook,28,6
+72,Bria River Oaks,Cook,83,1
+73,Bridgeview HC,Cook,34,15
+74,Brookdale Assisted living,Cook,5,1
+75,Brookdale Des Plaines,Cook,16,5
+76,Brookdale - Lake Shore,Cook,8,0
+77,Brookdale Northbrook,Cook,3,3
+78,Brookdale Orland Park,Cook,9,4
+79,Brookdale Senior Living of Chicago,Cook,4,0
+80,Bryn Mawr Care,Cook,13,0
+81,Buckingham Pavilion,Cook,64,10
+82,Burbank Rehab - Vera Care Stickney,Cook,21,9
+83,California Gardens Nursing and Rehabilitation Cent,Cook,156,4
+84,Carlton at the Lake,Cook,113,14
+85,Center Home for Hispanic Elderly,Cook,70,29
+86,Central Baptist Village,Cook,6,0
+87,Central Nursing Home,Cook,81,16
+88,Chalet Living And Rehab Center,Cook,74,10
+89,Chicago Ridge Nursing and Rehab,Cook,49,15
+90,Citadel of Northbrook,Cook,10,2
+91,Citadel of Warren Park,Cook,21,4
+92,Citadel of Waterford,Cook,63,10
+93,Citadel of Wilmette,Cook,5,1
+94,City View Multi Care Center,Cook,243,13
+95,Clark Manor,Cook,48,8
+96,Community Care Nursing Home,Cook,80,5
+97,Continental Nursing and Rehabilitation Center,Cook,38,11
+98,Countryside Nursing and Rehab Center,Cook,2,0
+99,Covenant Enabling Residence,Cook,5,0
+100,Covenant Enabling Resident of Illinois,Cook,5,1
+101,Covenant Home of Chicago,Cook,2,0
+102,Covenant Living of Northbrook,Cook,2,0
+103,"David Webb, Jr. Senior Living Complex",Cook,3,2
+104,Dobson Plaza,Cook,52,9
+105,Edward Hines VA Community Living Center,Cook,3,0
+106,Elevate Care Chicago North,Cook,171,29
+107,Elevate Care Irving Park,Cook,64,12
+108,Elevate Care Niles,Cook,5,2
+109,Elevate Care Northbrook,Cook,63,11
+110,Elevate Care South Holland,Cook,17,5
+111,Elevate Saint Andrew,Cook,19,7
+112,Emerald Place Memory Care,Cook,9,2
+113,Estates of Hyde Park,Cook,37,9
+114,Evergreen Senior Living,Cook,14,7
+115,Fairmont Care,Cook,121,24
+116,Foster Health & Rehab,Cook,30,4
+117,Franciscan Village,Cook,4,1
+118,Friendship Village Assisted Living,Cook,5,1
+119,Friendship Village LTC,Cook,5,1
+120,Generations at Applewood,Cook,71,16
+121,Generations at Elmwood Park,Cook,86,16
+122,Generations At Oakton,Cook,30,10
+123,Generations at Regency,Cook,97,25
+124,Glenview Terrace,Cook,100,28
+125,Glenwood Health Care & Rehab,Cook,41,3
+126,Golfview Developmental Center,Cook,99,11
+127,Good Shepherd Manor,Cook,3,1
+128,Grace Point Place Memory Care,Cook,23,7
+129,Greek American Rehab & Care,Cook,3,0
+130,Greenwood Care-Evanston,Cook,14,1
+131,Grosse Pointe Manor,Cook,9,2
+132,Harbor House Memory Care,Cook,24,4
+133,Harmony Healthcare and Rehab,Cook,112,24
+134,Heartis Village of Orland Park,Cook,2,0
+135,Heather Manor Nursing & Rehabilitation Center,Cook,8,1
+136,Helping Hands Center Countryside,Cook,2,0
+137,Heritage Woods,Cook,5,0
+138,Hickory Nursing Pavilion,Cook,3,0
+139,Holy Family Villa,Cook,8,3
+140,Inverness Health and Rehab,Cook,10,0
+141,Jackson Park Assisted living,Cook,2,0
+142,Kensington Place Nursing And Rehabilitation Center,Cook,15,2
+143,Lake Cook Rehab & Healthcare(formerly Rosewood),Cook,20,7
+144,Lakefront Nursing,Cook,11,0
+145,Lakeview Nursing and Rehab,Cook,60,19
+146,Landmark of Des Plaines,Cook,86,20
+147,Landmark of Richton Park,Cook,34,5
+148,Lee Manor Rehab and Nursing,Cook,31,5
+149,Lemont Center,Cook,11,5
+150,Lexington healthcare of Schaumburg,Cook,4,0
+151,Lexington Health Care Orland Park,Cook,28,12
+152,Lexington of Chicago Ridge,Cook,23,12
+153,Lieberman Geriatric Center,Cook,20,2
+154,Lincolnwood Place,Cook,31,13
+155,Little Sisters of the Poor/St. Marys Home,Cook,57,10
+156,Little Village Nursing Home,Cook,34,5
+157,Ludeman Developmental Center,Cook,316,10
+158,Lydia Health Care Center,Cook,23,3
+159,Madden Mental Health Center,Cook,13,0
+160,MADO Healthcare Uptown,Cook,63,6
+161,Manor Care at Arlington Heights,Cook,18,1
+162,ManorCare ElkGrove Village,Cook,60,8
+163,Manor Care Health Services-Homewood,Cook,48,13
+164,ManorCare Health Services-Palos Heights West,Cook,52,14
+165,Manor Care Oak Lawn EAST. Cook,Cook,31,9
+166,ManorCare Oak Lawn West,Cook,51,10
+167,ManorCare Palos Heights East,Cook,51,5
+168,Margaret Manor Central,Cook,12,1
+169,Marklund Wasmond Center,Cook,2,0
+170,Mather Place,Cook,7,2
+171,Mayfield Care Center,Cook,153,18
+172,Meadowbrook Manor,Cook,45,11
+173,Mercy Circle,Cook,6,0
+174,Midway Neuro and Rehab,Cook,117,10
+175,Montgomery Place,Cook,30,3
+176,Mosaic of Lakeshore,Cook,119,26
+177,New City Supportive Living,Cook,2,0
+178,Niles Nursing and Rehab Center,Cook,158,33
+179,Norridge Gardens,Cook,66,30
+180,Northbrook Inn Memory Care,Cook,11,4
+181,North Shore Place,Cook,8,0
+182,Norwood crossing Skilled Nursing,Cook,27,1
+183,Oak Lawn Respiratory and Rehab,Cook,2,0
+184,Oak Park Arms,Cook,9,1
+185,Oak Park Brookdale,Cook,14,1
+186,Oak Park Oasis,Cook,25,10
+187,Palos Heights Nursing and Rehab,Cook,23,3
+188,Parkshore Estates,Cook,18,1
+189,Park View Rehab,Cook,44,10
+190,Pauls House,Cook,45,5
+191,Pearl of Rolling Meadows,Cook,3,0
+192,Pershing Garden,Cook,13,4
+193,Peterson Park Health Care,Cook,202,31
+194,Pine Crest Healthcare,Cook,3,1
+195,Praire Oasis South Holland,Cook,35,10
+196,Prairie Green at Dixie Crossing,Cook,16,5
+197,Prairie Green at Fays Point,Cook,11,2
+198,Prairie Manor Rehab and Nursing,Cook,22,10
+199,Presence MaryHaven,Cook,13,4
+200,Presence Nazarethville,Cook,5,0
+201,Presence Resurrection Life Center,Cook,6,1
+202,Presence St. Benedict,Cook,5,0
+203,Presence Villa Scalabrini Nursing&Rehab Center,Cook,19,3
+204,Progressive Housing,Cook,3,1
+205,Resurrection Nursing & rehab Center,Cook,43,4
+206,Revere Court of South Barrington,Cook,8,2
+207,Selfhelp Home,Cook,38,3
+208,Sheridan Village,Cook,43,15
+209,Skokie Meadows,Cook,5,0
+210,Smith Village,Cook,66,13
+211,Southpoint Nsg and Rehab,Cook,45,4
+212,South Suburban Rehab Center,Cook,41,16
+213,Southview Manor,Cook,23,2
+214,St Joseph Home For the Elderly,Cook,2,0
+215,St. Joseph Village of Chicago,Cook,2,0
+216,St. Mary of Providence in Chicago,Cook,4,0
+217,Summit of Uptown,Cook,31,14
+218,Sunrise of Flossmore,Cook,11,6
+219,Sunrise of Lincoln Park,Cook,2,0
+220,Sunrise of Park Ridge,Cook,45,10
+221,Sunrise of Schaumburg,Cook,3,0
+222,Sunrise Palos Park,Cook,3,1
+223,Symphony at 87th,Cook,114,10
+224,Symphony at Aria,Cook,22,3
+225,Symphony at Midway,Cook,211,17
+226,Symphony of Bronzeville,Cook,51,15
+227,Symphony of Chicago West,Cook,45,7
+228,Symphony of Crestwood,Cook,32,2
+229,Symphony of Evanston,Cook,15,1
+230,Symphony of Hanover Park,Cook,17,1
+231,Symphony of Lincoln Park,Cook,170,22
+232,Symphony of Morgan Park,Cook,190,20
+233,Symphony of South Shore,Cook,166,19
+234,The Admiral at the Lake,Cook,37,6
+235,The Auberge at Morton Grove,Cook,41,0
+236,The Carrington Linclonwood,Cook,26,4
+237,The Clare,Cook,15,0
+238,The Grove of Berwyn,Cook,36,13
+239,The Grove of Evanston,Cook,38,8
+240,The Grove of La Grange,Cook,3,0
+241,The Grove of Skokie,Cook,26,4
+242,The Hartwell,Cook,14,0
+243,The Mather Evanston,Cook,4,0
+244,The Pointe of Kilpatrick,Cook,22,0
+245,The Reserve at Arlington Heights,Cook,2,1
+246,The Sheridan of Park Ridge,Cook,9,3
+247,The Vine At Countryside,Cook,17,2
+248,Thornton Heights Terrace,Cook,4,0
+249,Three Crown Park,Cook,39,6
+250,Tri-States Nursing & rehab Center,Cook,13,1
+251,Uptown Health Center,Cook,118,16
+252,Vi at the Glen,Cook,12,0
+253,Victory Centre of Sierra Ridge,Cook,9,1
+254,Villa at Palos Heights,Cook,8,1
+255,Villa at South Holland,Cook,16,5
+256,Villa at Windsor Park,Cook,153,37
+257,Warren Barr Gold Coast,Cook,23,1
+258,Warren Barr Lincoln Park,Cook,50,10
+259,Warren Barr South Loop,Cook,31,2
+260,Waterfront Terrace,Cook,64,10
+261,Weinberg Community for Senior Living,Cook,8,0
+262,Wesley Place,Cook,2,0
+263,Westchester Health and Rehabilitation Center,Cook,43,12
+264,Westminster Place,Cook,11,0
+265,Westwood Manor,Cook,36,1
+266,Windsor Estates,Cook,55,18
+267,Winston Manor,Cook,38,7
+268,Woodbridge Nursing Pavilion,Cook,218,33
+269,Pine Acres,Dekalb,6,1
+270,Abbington Rehab & Nursing Center,DuPage,68,5
+271,Alden Estates of Naperville,DuPage,87,22
+272,Alden of Old Town East,DuPage,3,0
+273,Alden Trails,DuPage,5,0
+274,Alden Valley Ridge,DuPage,39,12
+275,Alden Village Bloomingdale,DuPage,20,1
+276,Aperion Care West Chicago,DuPage,36,4
+277,Arista Healthcare Naperville,DuPage,11,0
+278,Artis Senior Living Elmhurst,DuPage,42,19
+279,Artis Senior Living of Bartlett,DuPage,28,12
+280,Aspired Living of Westmont,DuPage,13,3
+281,Beacon Hill Lombard,DuPage,42,2
+282,Belmont Village Senior Living Carol Stream,DuPage,28,2
+283,Bria of Westmont,DuPage,133,20
+284,Bridgeway Senior Living,DuPage,39,4
+285,Brookdale Burr Ridge,DuPage,11,2
+286,Brookdale Glen Ellyn,DuPage,4,1
+287,Brookdale Lisle,DuPage,33,6
+288,Burgess Square Healthcare & Rehab Center,DuPage,32,3
+289,Chateau Center Nursing & Rehabilitation,DuPage,58,12
+290,Clarendale of Addison,DuPage,4,0
+291,DuPage Care Center,DuPage,12,0
+292,Forestview Rehabilitation & Nursing Center,DuPage,104,7
+293,Harbor Chase of Naperville,DuPage,8,0
+294,Harvester Place Memory Care,DuPage,38,13
+295,Lacey Creek Supportive Living,DuPage,2,0
+296,Lakeview Memory Care Community,DuPage,3,0
+297,Lexington of Bloomingdale,DuPage,61,13
+298,Lexington of Elmhurst,DuPage,17,11
+299,Lexington of Lombard,DuPage,29,9
+300,Lexington Square Lombard,DuPage,3,0
+301,Manorcare Hinsdale,DuPage,165,28
+302,Meadowbrook Manor Naperville,DuPage,37,3
+303,Naperville Manor Health & Rehab Center,DuPage,9,1
+304,Oakbrook Care,DuPage,93,17
+305,Oak Trace,DuPage,9,2
+306,Oak Trace Skilled Nursing,DuPage,2,0
+307,Park Place Health and Wellness Center,DuPage,2,0
+308,Park Place of Elmhurst Assisted Living/Memory Care,DuPage,2,0
+309,Providence Healthcare & Rehabilitation Center,DuPage,78,13
+310,Ray Graham Iona Glos,DuPage,25,1
+311,St. Patricks Residence Nursing & Rehabilitation,DuPage,5,0
+312,Sunrise of Bloomingdale Assisted Living,DuPage,6,1
+313,Sunrise of Willowbrook Assisted Living,DuPage,8,1
+314,Tabor Hills Healthcare,DuPage,32,2
+315,Tabor Hills Supportive Living,DuPage,2,0
+316,Terra Vista of Oakbrook Terrace,DuPage,8,1
+317,The Birches Assisted Living Clarendon Hills,DuPage,8,0
+318,The Grove of Elmhurst,DuPage,21,1
+319,The Radcliff Wood Dale,DuPage,8,0
+320,Westbridge Assisted Living Wheaton,DuPage,9,4
+321,West Chicago Terrace,DuPage,9,0
+322,Westmont Manor Health and Rehab Center,DuPage,46,11
+323,West Suburban Nursing & Rehabilitation Center,DuPage,12,1
+324,Wheaton Village,DuPage,45,6
+325,Windsor Park Manor,DuPage,93,21
+326,Winfield Woods Healthcare Center,DuPage,2,0
+327,Wynscape Health and Rehabilitation,DuPage,2,0
+328,Sweetbriar,Fayette,2,0
+329,Accolade Healthcare of Paxton Senior Living,Ford,2,0
+330,Ascension Presence Merkle Knipprath,Iroquois,44,4
+331,Prairieview Lutheran Homes,Iroquois,3,0
+332,Integrity Healthcare of Carbondale,Jackson,9,0
+333,Manor Court of Carbondale,Jackson,27,10
+334,Newton Care Center,Jasper,49,7
+335,GreenTree at Mt. Vernon,Jefferson,73,15
+336,Galena Stauss Nursing Home,JoDaviess,2,0
+337,Alden Courts of Waterford,Kane,7,0
+338,Alden of Waterford,Kane,36,9
+339,Arden Courts of Geneva,Kane,7,1
+340,Asbury Gardens,Kane,65,13
+341,Avondale Estates of Elgin,Kane,30,1
+342,Batavia Rehabilitation Center,Kane,4,1
+343,Bickford of Aurora,Kane,29,7
+344,Bria of Geneva,Kane,132,26
+345,Bright Oaks of Aurora,Kane,4,0
+346,Brighton Garden of St Charles,Kane,3,0
+347,Citadel of Elgin,Kane,7,0
+348,Elmwood Terrace,Kane,28,4
+349,Fox knoll,Kane,10,2
+350,Fox River Rehab and Healthcare,Kane,49,10
+351,GreenFields of Geneva,Kane,3,0
+352,Grove of St. Charles,Kane,10,1
+353,Heritage Health Therapy and Senior Care,Kane,36,1
+354,Highland Oaks,Kane,3,0
+355,Jennings Terrace,Kane,3,0
+356,Northern Illinois Academy,Kane,2,0
+357,River Glen,Kane,6,0
+358,Sunnymere,Kane,10,0
+359,Symphony of Orchard Valley,Kane,113,17
+360,The Grove of Fox Valley,Kane,4,0
+361,The Sheridan at Tyler Creek,Kane,4,0
+362,Tower Hill Healthcare Center,Kane,134,15
+363,White Oaks at South Elgin,Kane,5,0
+364,Aperion Care Bradley,Kankakee,2,0
+365,Bickford Senior Center of Bourbonnais,Kankakee,3,1
+366,Community Alternative of Illinios,Kankakee,4,0
+367,Harvest View Senior Living,Kankakee,2,0
+368,Heritage Village,Kankakee,2,0
+369,Illinois Department of veterans Affair Prince Home,Kankakee,4,0
+370,Illinois Veterans Home,Kankakee,33,11
+371,Presence Our Lady of Victory - Ascension Living,Kankakee,4,0
+372,Riverside Miller Rehabilitation,Kankakee,56,17
+373,Riverside Senior Life at Bourbonnais,Kankakee,11,2
+374,Samuel H. Shapiro Developmental Center,Kankakee,138,1
+375,Association for Individual Development (A.I.D),Kendall,4,3
+376,Hillside Rehab and Care,Kendall,8,2
+377,Symphony At The Tillers of Oswego,Kendall,36,9
+378,Aperion Care Marseilles,LaSalle,41,9
+379,Aperion Care Highwood,Lake,59,5
+380,Avantara Long Grove,Lake,146,13
+381,Azpira Place of Lake Zurich,Lake,5,0
+382,Balmoral Care Center,Lake,11,2
+383,Bayside Terrace,Lake,70,1
+384,Belmont Village of Buffalo Grove,Lake,60,18
+385,Brookdale - Hawthorn Lakes,Lake,6,0
+386,Cedar Lake,Lake,16,8
+387,Claridge Health Center,Lake,60,16
+388,Elevate Care Riverwoods,Lake,59,11
+389,Elevate Care Waukegan,Lake,74,10
+390,Kiley Development Center,Lake,33,0
+391,Lexington of Lake Zurich,Lake,41,12
+392,Libertyville Manor,Lake,18,4
+393,Pavilion of Waukegan,Lake,4,0
+394,Radford Green at Sedgebrook,Lake,31,5
+395,Riverside Foundation,Lake,65,5
+396,Rolling Hills Manor,Lake,8,0
+397,Rolling Hills Place,Lake,6,0
+398,Sheridan at Green Oaks,Lake,18,1
+399,Sunrise Senior Living of Gurnee,Lake,2,0
+400,Symphony Buffalo Grove,Lake,31,1
+401,Terrace Nursing Home,Lake,42,10
+402,The Auberge At Highland Park,Lake,7,3
+403,The Grove By the Lake,Lake,59,8
+404,The Solana Deer Park,Lake,17,3
+405,The Village at Victory Lakes,Lake,14,1
+406,The Wellshire Lincolnshire,Lake,5,1
+407,Victory Centre of  Vernon Hills,Lake,3,0
+408,Victory Lakes Continuing Care Center,Lake,12,3
+409,Warren Barr Lincolnshire,Lake,71,1
+410,Warren Barr North Shore,Lake,75,11
+411,Wauconda Care,Lake,62,17
+412,Whitehall of Deerfield,Lake,39,2
+413,Winchester House,Lake,20,3
+414,Jack Mabley Developmental Center,Lee,74,1
+415,Fairhavens Senior Living,Macon,92,18
+416,Prairie Creek Village,Macon,4,0
+417,Villa Clara Post Acute,Macon,2,1
+418,Heritage Health,Macoupin,4,0
+419,Sunset Skilled Nursing & Rehab,Macoupin,2,0
+420,Cedarhurst of Bethalto,Madison,4,0
+421,Cedarhurst of Highland,Madison,4,0
+422,Eden Village Care Center,Madison,60,18
+423,Edwardsville Care Center,Madison,93,22
+424,Riverside Rehab and Healthcare,Madison,28,7
+425,Heartland Health Care Center,McDonough,34,6
+426,Mosaic,McDonough,7,0
+427,The Lamoine Assisted Living & Memory Care,McDonough,12,1
+428,Alden Terrace of McHenry,McHenry,75,11
+429,Cross Roads Care Center,McHenry,68,10
+430,Fair Oaks Health Care Center,McHenry,12,2
+431,Florence Nursing Home,McHenry,31,4
+432,Hearthstone Village,McHenry,2,0
+433,Revere Court of Crystal Lake,McHenry,14,2
+434,Sheltered Village,McHenry,41,9
+435,The Fountains at Crystal Lake,McHenry,38,12
+436,The Springs at Crystal Lake,McHenry,39,8
+437,Three Oaks Assisted Living and Memory Care,McHenry,2,0
+438,Bloomington Rehabilitation and Healthcare Center,McLean,56,10
+439,Luther Oakes,McLean,4,0
+440,Garden Place Independant & Assisted Living,Monroe,39,11
+441,Oak Hill,Monroe,3,0
+442,Montgomery Nursing and Rehab Center,Montgomery,2,0
+443,Bickford Senior Living of Peoria,Peoria,16,3
+444,EP!C,Peoria,21,0
+445,Generations of Peoria,Peoria,25,4
+446,Lutheran Hillside Village,Peoria,4,0
+447,Sharon Healthcare Willows South,Peoria,4,0
+448,University Rehab Center,Peoria,2,0
+449,Cedarhurst of Sparta,Randolph,2,0
+450,Coulterville Rehabilitation & Health Care Center,Randolph,2,0
+451,Aperion Care Moline,Rock Island,11,1
+452,Centennial Care Center,Rock Island,35,4
+453,Fort Armstrong,Rock Island,18,1
+454,Friendship Manor,Rock Island,4,0
+455,Generations of Rock Island,Rock Island,38,14
+456,Hope Creek,Rock Island,7,1
+457,Illini Restorative Care,Rock Island,9,0
+458,Park Vista,Rock Island,3,0
+459,St. Anthonys Continue Care,Rock Island,2,0
+460,Centennial Pointe,Sangamon,5,1
+461,Villa East,Sangamon,119,23
+462,Shelbyville Manor,Shelby,6,0
+463,BRIA of Belleville,St. Clair,24,3
+464,Bria of Cahokia,St. Clair,15,1
+465,CASEYVILLE CARE CENTER,St. Clair,3,0
+466,Cedarhurst of Shiloh,St. Clair,11,0
+467,Cedar Ridge,St. Clair,3,0
+468,Four Fountains,St. Clair,104,20
+469,Knollwood,St. Clair,8,1
+470,Lebanon Care Center,St. Clair,51,10
+471,Memorial Care Center,St. Clair,43,5
+472,New Athens Home for the Aged,St. Clair,15,1
+473,St. Pauls,St. Clair,37,9
+474,Swansea Rehabilitation and Health Care Center,St. Clair,6,0
+475,Generations at Riverview,Tazewell,6,2
+476,Illinois Veterans Home Anna,Union,5,0
+477,Integrity of Anna,Union,47,5
+478,Integrity of Cobden,Union,42,4
+479,Aperion Care Fairfield,Wayne,6,1
+480,Harbor Crest,Whiteside,17,3
+481,Kreiders,Whiteside,2,0
+482,Parkway Center,Whiteside,28,5
+483,Alden Courts of Shorewood,Will,8,1
+484,Aperion Wilmington,Will,2,0
+485,Arbor Terrace,Will,35,4
+486,"Charter Senoir Living, The Cottages",Will,11,2
+487,Clarendale of Mokena,Will,29,3
+488,Heritage Woods of Bolingbrook,Will,5,0
+489,Joliet Terrace,Will,3,0
+490,Lakeshore Rehab & Healthcare,Will,4,0
+491,Lakewood Nursing Home,Will,2,0
+492,Marley Oaks,Will,6,1
+493,Meadowbrook Manor of Bolingbrook,Will,188,40
+494,Presence Villa Franciscan,Will,64,13
+495,Rock Run Place,Will,4,0
+496,Salem Village NH,Will,2,1
+497,Senior Star at Weber Place,Will,13,4
+498,Shady Oaks,Will,30,3
+499,Smith Crossing,Will,10,0
+500,Spring Creek Nursing Home,Will,10,1
+501,St. Colettas of Illinois,Will,2,0
+502,St James Manor,Will,48,16
+503,Sunny Hill Nursing Home,Will,46,16
+504,symphony of joliet,Will,132,25
+505,The PARC of Joliet,Will,53,10
+506,Timbers of Shorewood,Will,2,0
+507,Victorian Village,Will,9,1
+508,Willow Falls,Will,8,2
+509,Willow House,Will,18,0
+510,Alden Debes Rehab Inc,Winnebago,60,14
+511,Amberwood,Winnebago,25,3
+512,Anam Care Facility,Winnebago,18,7
+513,Ascension St Anne Center,Winnebago,3,0
+514,Crimson Pointe Senior Living,Winnebago,7,3
+515,Fairhaven Christian Retirement Center,Winnebago,3,0
+516,Milestone Inc. - Applewood,Winnebago,3,0
+517,Mosaic - Applewood Group Home,Winnebago,2,0
+518,PA Peterson at theCitadel,Winnebago,2,0
+519,Peterson Meadows,Winnebago,7,1
+520,River Bluff Nursing Home,Winnebago,4,0
+521,Stepping Stone of Rockford,Winnebago,4,1
+522,Van Matre Encompas Health,Winnebago,9,1
