@@ -24,6 +24,8 @@ html_soup = BeautifulSoup(page, 'html.parser')
 
 main_div = html_soup.find('div', {'id': 'LTCContainer'})
 
+facility_count = 0
+
 for tag in main_div.children:
 	if tag.has_attr('class'):
 		if tag['class'][0] == 'ui-accordion-header':
@@ -38,5 +40,7 @@ for tag in main_div.children:
 				deaths = re.findall('\d+', str(data[1]))
 				
 				df = df.append({'Facility' : name , 'County' : current_county, 'Total Cases' : int(cases[0]), 'Total Deaths' : int(deaths[0])} , ignore_index=True)
+				facility_count = facility_count + 1
 
 df.to_csv('il_data.csv')
+print("There are " + str(facility_count) + " total facilities with cases")
